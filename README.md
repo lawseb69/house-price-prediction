@@ -26,7 +26,7 @@ The goal is to build a robust model for `SalePrice` and understand which propert
 
 2. **Exploratory Data Analysis (EDA)**
    - Analyzed the distribution of `SalePrice` (right-skewed, with a few very expensive properties).  
-   - Visualized relationships between price and key features such as living area (`GrLivArea`), overall quality (`OverallQual`), basement/garage size, and neighborhood. [web:7]
+   - Visualized relationships between price and key features such as living area (`GrLivArea`), overall quality (`OverallQual`), basement/garage size, and neighborhood. 
 
 3. **Modeling**
    - Train/test split (80/20) to evaluate on unseen data. 
